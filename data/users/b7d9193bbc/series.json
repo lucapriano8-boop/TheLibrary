@@ -98,5 +98,29 @@
       "e": 23
     },
     "addedAt": "2026-11-24T14:08:31.902Z"
+  },
+  {
+    "id": "fa1aa3b0-ef20-472f-9e4d-d5f9be5edf41",
+    "title": "Brooklyn Nine-Nine",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_.jpg",
+    "year": 2013,
+    "seasons": [
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 82,
+    "at": {
+      "s": 8,
+      "e": 19
+    },
+    "addedAt": "2026-11-24T14:09:01.883Z"
   }
 ]
