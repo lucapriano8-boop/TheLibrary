@@ -22,5 +22,27 @@
       "e": 6
     },
     "addedAt": "2026-11-24T14:00:18.125Z"
+  },
+  {
+    "id": "1a5e0186-b7a9-4db5-b19f-f87d08c4f1d9",
+    "title": "Hunter × Hunter",
+    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hunter_x_hunter.png/500px-Hunter_x_hunter.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2011,
+    "seasons": [
+      26,
+      12,
+      20,
+      17,
+      61,
+      12
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 85,
+    "at": {
+      "s": 6,
+      "e": 12
+    },
+    "addedAt": "2026-11-24T14:04:59.033Z"
   }
 ]
