@@ -45,5 +45,30 @@
     },
     "addedAt": "2026-11-24T14:04:59.033Z",
     "updatedAt": "2026-11-24T14:06:07.576Z"
+  },
+  {
+    "id": "df515705-b40d-4512-9141-fa6942821e33",
+    "title": "How I Met Your Mother",
+    "cover": "https://m.media-amazon.com/images/I/81wl0PL9A-L._AC_UF350,350_QL80_.jpg",
+    "year": 2005,
+    "seasons": [
+      22,
+      22,
+      20,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 90,
+    "at": {
+      "s": 9,
+      "e": 24
+    },
+    "addedAt": "2026-11-24T14:07:50.231Z"
   }
 ]
