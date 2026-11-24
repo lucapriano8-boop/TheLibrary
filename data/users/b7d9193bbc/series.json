@@ -36,13 +36,14 @@
       61,
       12
     ],
-    "status": "Completata",
+    "status": "In corso",
     "review": "",
-    "score": 85,
+    "score": null,
     "at": {
       "s": 6,
       "e": 12
     },
-    "addedAt": "2026-11-24T14:04:59.033Z"
+    "addedAt": "2026-11-24T14:04:59.033Z",
+    "updatedAt": "2026-11-24T14:05:09.536Z"
   }
 ]
