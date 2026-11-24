@@ -122,5 +122,25 @@
       "e": 19
     },
     "addedAt": "2026-11-24T14:09:01.883Z"
+  },
+  {
+    "id": "432a1f08-86ce-4cd7-8e02-8c4d90c9b4fe",
+    "title": "L'attacco dei giganti",
+    "cover": "https://m.media-amazon.com/images/I/71NdNnKe8AL.jpg",
+    "year": 2013,
+    "seasons": [
+      22,
+      22,
+      22,
+      22
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 92,
+    "at": {
+      "s": 4,
+      "e": 22
+    },
+    "addedAt": "2026-11-24T14:09:52.752Z"
   }
 ]
