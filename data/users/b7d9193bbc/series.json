@@ -1,0 +1,26 @@
+[
+  {
+    "id": "239d57b1-acf9-44c2-b3b5-3b8fefd14e32",
+    "title": "Il Trono di Spade",
+    "cover": "https://www.ibs.it/images/9788804666844_0_0_536_0_75.jpg",
+    "year": 2011,
+    "seasons": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      7,
+      6
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 3,
+      "e": 6
+    },
+    "addedAt": "2026-11-24T14:00:18.125Z"
+  }
+]
