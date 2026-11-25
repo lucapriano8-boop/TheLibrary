@@ -209,5 +209,29 @@
       "e": 11
     },
     "addedAt": "2026-11-25T13:16:19.973Z"
+  },
+  {
+    "id": "e4c53da9-7b2f-4317-ba53-4c01f079a1c1",
+    "title": "Rick and Morty",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKi96KNJYfuwHS6YtWHtrvn2y0EUMRQt8REeii7vwTJa4mXnHqPUv2288&s=10",
+    "year": 2013,
+    "seasons": [
+      11,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 7,
+      "e": 9
+    },
+    "addedAt": "2026-11-25T13:55:51.148Z"
   }
 ]
