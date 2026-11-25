@@ -284,5 +284,45 @@
       "e": 2
     },
     "addedAt": "2026-11-25T13:58:15.542Z"
+  },
+  {
+    "id": "20de4901-252c-4383-a56a-4c7eba9bc365",
+    "title": "I Griffin",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTGuBHqEJ-O1n27oxW9U-7JU89k46C0WOg48CwAY3S6WU7QEijcEpMo0a&s=10",
+    "year": 1999,
+    "seasons": [
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 13,
+      "e": 1
+    },
+    "addedAt": "2026-11-25T13:59:57.510Z"
   }
 ]
