@@ -346,5 +346,32 @@
       "e": 9
     },
     "addedAt": "2026-11-25T14:01:56.947Z"
+  },
+  {
+    "id": "b9ab1507-1750-4869-bc4f-a8e0b80678c3",
+    "title": "Futurama",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8LmzuSQcs2OBZJG8VGwcMVjeS-udSW6xllx1Tn7CmzUSlqqUTg0ElbI_r&s=10",
+    "year": 1999,
+    "seasons": [
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 1,
+      "e": 6
+    },
+    "addedAt": "2026-11-25T14:03:03.134Z"
   }
 ]
