@@ -189,5 +189,25 @@
       "e": 5
     },
     "addedAt": "2026-11-25T13:13:51.807Z"
+  },
+  {
+    "id": "63c743c5-ee25-414e-acd3-c9ef3e955211",
+    "title": "Jujutsu kaisen",
+    "cover": "https://www.animeclick.it/immagini/anime/Jujutsu_Kaisen/cover/Jujutsu_Kaisen-cover.jpg",
+    "year": 2020,
+    "seasons": [
+      24,
+      1,
+      23,
+      12
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 1,
+      "e": 11
+    },
+    "addedAt": "2026-11-25T13:16:19.973Z"
   }
 ]
