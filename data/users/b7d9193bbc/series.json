@@ -324,5 +324,27 @@
       "e": 1
     },
     "addedAt": "2026-11-25T13:59:57.510Z"
+  },
+  {
+    "id": "43982be0-f811-4b33-942b-ef749afd08e0",
+    "title": "This Is Us",
+    "cover": "https://themantovanis.blog/wp-content/uploads/2019/04/this-is-us.jpg",
+    "year": 2016,
+    "seasons": [
+      18,
+      18,
+      18,
+      18,
+      18,
+      18
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 6,
+      "e": 9
+    },
+    "addedAt": "2026-11-25T14:01:56.947Z"
   }
 ]
