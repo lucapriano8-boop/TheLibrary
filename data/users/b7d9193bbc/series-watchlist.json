@@ -134,5 +134,27 @@
     "where": "",
     "notes": "",
     "addedAt": "2026-11-25T14:05:01.962Z"
+  },
+  {
+    "id": "e774115d-5e1d-47cf-9903-91b13c4153b6",
+    "title": "Belve",
+    "cover": "https://www.raiplay.it/NUOVA%20STAGIONE/dl/img/2026/11/19/1795080308758_1536x2048_label.jpg",
+    "year": null,
+    "seasons": [
+      9,
+      9,
+      8,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      4,
+      1
+    ],
+    "where": "",
+    "notes": "",
+    "addedAt": "2026-11-25T14:07:18.950Z"
   }
 ]
