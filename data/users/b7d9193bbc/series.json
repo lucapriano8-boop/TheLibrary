@@ -261,5 +261,28 @@
       "e": 23
     },
     "addedAt": "2026-11-25T13:57:11.440Z"
+  },
+  {
+    "id": "0cdf3638-23b1-46fe-bf03-a5058540e9f2",
+    "title": "Young Sheldon",
+    "cover": "https://m.media-amazon.com/images/I/81h3MAb9K8L._AC_UF894,1000_QL80_.jpg",
+    "year": 2017,
+    "seasons": [
+      22,
+      22,
+      21,
+      18,
+      22,
+      22,
+      14
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 7,
+      "e": 2
+    },
+    "addedAt": "2026-11-25T13:58:15.542Z"
   }
 ]
