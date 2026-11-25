@@ -148,7 +148,7 @@
   {
     "id": "9eb596b6-5436-461f-b216-215916af8b6a",
     "title": "The Office",
-    "cover": "https://thumb.wikimedia.org/wikipedia/it/thumb/4/4b/The_Office_US_sigla.png/500px-The_Office_US_sigla.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVG_MBiLiDSW9DbHPcp1LGDsdP7mnZu1TOJRZiXNK3Bg&s=10",
     "year": 2005,
     "seasons": [
       6,
@@ -170,6 +170,6 @@
     },
     "addedAt": "2026-11-25T10:30:33.867Z",
     "favorite": true,
-    "updatedAt": "2026-11-25T10:30:43.706Z"
+    "updatedAt": "2026-11-25T13:12:24.492Z"
   }
 ]
