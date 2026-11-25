@@ -119,5 +119,20 @@
     "where": "",
     "notes": "",
     "addedAt": "2026-11-25T14:04:17.102Z"
+  },
+  {
+    "id": "87d249b5-a16c-4302-b9b4-e579731d2cce",
+    "title": "Ultimate Spider-Man",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRneXaNfgixBaXirKaoQA9rQLFmID5c1jf8mZ-2GhWFExjCuL2ahBoYWCcV&s=10",
+    "year": 2012,
+    "seasons": [
+      26,
+      26,
+      26,
+      26
+    ],
+    "where": "",
+    "notes": "",
+    "addedAt": "2026-11-25T14:05:01.962Z"
   }
 ]
