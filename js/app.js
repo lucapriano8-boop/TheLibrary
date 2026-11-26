@@ -2217,6 +2217,7 @@
   function seasonalSplashes(d = new Date()) {
     const m = d.getMonth() + 1; const day = d.getDate(); const out = [];
     if (m === 12 && day >= 20 && day <= 26) out.push('Buon Natale, giocatore! 🎄');
+    if (m === 12) out.push('Ho, ho, ho… backlog!', 'Un gioco sotto l\'albero?', 'Neve fuori, divano dentro ❄️', 'Il regalo migliore? Tempo per giocare', 'Cioccolata calda e un altro episodio');
     if ((m === 12 && day === 31) || (m === 1 && day === 1)) out.push('Buon anno! Nuovo backlog 🎆');
     if (m === 10 && day >= 25) out.push('Bu! 🎃');
     if (d.getDay() === 5 && d.getHours() >= 17) out.push('Weekend = backlog');
@@ -2925,12 +2926,32 @@
     canWrite: () => Storage.canWrite(),
   };
 
+  // ---------- NATALE: a dicembre il sito si decora da solo (per provarlo: ?natale nell'indirizzo) ----------
+  function setupChristmas() {
+    const params = new URLSearchParams(location.search);
+    const on = params.has('natale') || (new Date().getMonth() === 11 && !params.has('nonatale'));
+    document.body.classList.toggle('xmas', on);
+    if (!on) return;
+    $('meta[name="theme-color"]')?.setAttribute('content', '#1a1f2c');
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const snow = $('#snow');
+    const flakes = innerWidth < 640 ? 22 : 40;
+    snow.innerHTML = Array.from({ length: flakes }, () => {
+      const size = 3 + Math.random() * 5;
+      return `<i style="left:${(Math.random() * 100).toFixed(1)}%;width:${size.toFixed(1)}px;height:${size.toFixed(1)}px;`
+        + `animation-duration:${(8 + Math.random() * 10).toFixed(1)}s,${(3 + Math.random() * 3).toFixed(1)}s;`
+        + `animation-delay:-${(Math.random() * 18).toFixed(1)}s,-${(Math.random() * 3).toFixed(1)}s;opacity:${(0.35 + Math.random() * 0.5).toFixed(2)}"></i>`;
+    }).join('');
+    snow.hidden = false;
+  }
+
   function init() {
     try {
       const sec = localStorage.getItem('tgl-coll-section');
       if (sec === 'games' || sec === 'hardware') state.collSection = sec;
     } catch { /* ignore */ }
     setupClearButtons();
+    setupChristmas();
     setupScrollToTop();
     try {
       const cv = localStorage.getItem('tgl-coll-view');
