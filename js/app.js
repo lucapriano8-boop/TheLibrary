@@ -2204,6 +2204,60 @@
     else updateBanner(null, 'github');
   }
 
+  // ---------- frase della schermata iniziale (stile "splash") ----------
+  const SPLASHES = [
+    'Ora anche con i manga!', '100% senza microtransazioni', 'Il backlog non giudica. Quasi.', 'Un altro capitolo e smetto',
+    'Ancora un episodio, giuro', 'Salvataggio automatico attivo', 'Premi START per continuare', 'Ordinato per voto, non per affetto',
+    'Fatto a mano, pixel per pixel', 'Il platino non si fa da solo', 'Hai salvato prima del boss?', 'Ancora una partita!',
+    'Il backlog cresce mentre dormi', 'Caricamento… 99%', 'Questa volta lo finisco davvero', 'Volume 1 di 108',
+    'Il prossimo volume esce… quando esce', 'Profumo di carta nuova', 'Saga in corso, pazienza infinita',
+    'Riprendi da dove avevi lasciato?', 'Nel prossimo episodio…', 'Popcorn non inclusi', 'Stagione 2 confermata!',
+  ];
+  const splash = { last: '', facts: null, loading: false };
+  function seasonalSplashes(d = new Date()) {
+    const m = d.getMonth() + 1; const day = d.getDate(); const out = [];
+    if (m === 12 && day >= 20 && day <= 26) out.push('Buon Natale, giocatore! 🎄');
+    if ((m === 12 && day === 31) || (m === 1 && day === 1)) out.push('Buon anno! Nuovo backlog 🎆');
+    if (m === 10 && day >= 25) out.push('Bu! 🎃');
+    if (d.getDay() === 5 && d.getHours() >= 17) out.push('Weekend = backlog');
+    if (d.getDay() === 1) out.push('Lunedì: si gioca lo stesso');
+    return out;
+  }
+  // frasi con i numeri di tutti i profili (giochi e backlog), calcolate una volta in sottofondo
+  async function loadSplashFacts() {
+    if (splash.facts || splash.loading) return;
+    splash.loading = true;
+    try {
+      const facts = []; let games = 0; const year = new Date().getFullYear();
+      for (const u of visibleUsers()) {
+        const [g, b] = await Promise.all([Storage.load(`${u.dir}/games.json`), Storage.load(`${u.dir}/backlog.json`)]);
+        const gl = Array.isArray(g.data) ? g.data : []; const bl = Array.isArray(b.data) ? b.data : [];
+        games += gl.length;
+        if (bl.length > 5) facts.push(`${u.name} ha ${bl.length} giochi nel backlog. Coraggio!`);
+        const done = gl.filter((x) => x.playedYear === year && x.status !== PLAYING).length;
+        if (done > 1) facts.push(`${u.name}: già ${done} giochi finiti quest'anno`);
+        const top = gl.filter((x) => x.score != null).sort((a, b2) => b2.score - a.score)[0];
+        if (top) facts.push(`${u.name} ha dato ${top.score} a ${top.title}`);
+      }
+      if (games) facts.push(`In questa libreria ci sono ${games} giochi`);
+      splash.facts = facts;
+    } catch { splash.facts = []; } finally { splash.loading = false; }
+  }
+  function pickSplash() {
+    if (Math.random() < 0.01) return 'Hai trovato la frase segreta ✨';
+    const seasonal = seasonalSplashes();
+    if (seasonal.length && Math.random() < 0.5) return seasonal[Math.floor(Math.random() * seasonal.length)];
+    const pool = [...SPLASHES, ...seasonal, ...(splash.facts || []), ...(splash.facts || [])].filter((s) => s !== splash.last);
+    return pool[Math.floor(Math.random() * pool.length)];
+  }
+  function showSplash() {
+    const el = $('#splash');
+    if (!el) return;
+    splash.last = pickSplash();
+    el.textContent = splash.last;
+    el.classList.remove('pop'); void el.offsetWidth; el.classList.add('pop');
+  }
+
   function renderProfiles() {
     if (!state.usersLoaded) {
       $('#profile-grid').innerHTML = '';
@@ -2229,6 +2283,8 @@
       : 'Crea il primo profilo per iniziare. I giochi già presenti nella libreria verranno assegnati a questo profilo.';
     $('#manage-profiles').hidden = users.length === 0;
     $('#manage-profiles').textContent = state.manageProfiles ? 'Fatto' : 'Gestisci profili';
+    if (!splash.last || !state.manageProfiles) showSplash();
+    if (!splash.facts) loadSplashFacts();
   }
 
   function updateProfileChip() {
@@ -2682,6 +2738,7 @@
       if (state.manageProfiles) openProfileForm(visibleUsers().find((u) => u.id === tile.dataset.profile));
       else selectProfile(tile.dataset.profile);
     });
+    $('#splash').addEventListener('click', showSplash);
     $('#manage-profiles').addEventListener('click', () => { state.manageProfiles = !state.manageProfiles; renderProfiles(); });
     $('#profile-form').addEventListener('submit', submitProfile);
     $('#profile-form').addEventListener('change', (e) => { if (e.target.name === 'avatar') updateProfilePreview(); });
