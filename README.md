@@ -1,4 +1,4 @@
-# 📚 The Library (TheGameLibrary)
+# 📚 The Library
 
 La mia libreria digitale personale: videogiochi, manga, libri, film e serie TV.
 
@@ -58,14 +58,14 @@ Gli avatar sono in `assets/avatars/` e si rigenerano con `python3 tools/make_ava
 ### 1. Pubblica il sito con GitHub Pages
 1. Su GitHub apri la repository, poi **Settings → Pages**.
 2. In *Build and deployment* scegli **Source: Deploy from a branch**, branch **`main`**, cartella **`/ (root)`**, poi **Save**.
-3. Dopo un minuto il sito sarà online su `https://<tuo-utente>.github.io/TheGameLibrary/`.
+3. Dopo un minuto il sito sarà online su `https://<tuo-utente>.github.io/TheLibrary/`.
 
 ### 2. Crea un token per poter salvare
 Il token permette al sito di scrivere i file dei dati, **solo** in questa repository.
 
 1. Vai su GitHub → foto profilo → **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**.
-2. Nome: `TheGameLibrary`. Scadenza: quella che preferisci (anche *No expiration*).
-3. **Repository access → Only select repositories →** `TheGameLibrary`.
+2. Nome: `TheLibrary`. Scadenza: quella che preferisci (anche *No expiration*).
+3. **Repository access → Only select repositories →** `TheLibrary`.
 4. **Permissions → Repository permissions → Contents → Read and write**.
 5. Genera il token e copialo (inizia con `github_pat_…`).
 
