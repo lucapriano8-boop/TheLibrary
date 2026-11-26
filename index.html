@@ -5,22 +5,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>The Library</title>
   <meta name="description" content="La mia libreria personale: videogiochi, manga, libri, film e serie TV.">
-  <meta name="app-version" content="20261120-093152">
+  <meta name="app-version" content="20261126-144653">
   <meta name="theme-color" content="#1a1f2c">
-  <link rel="icon" type="image/svg+xml" href="assets/logo.svg?v=20261120-093152">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png?v=20261120-093152">
-  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png?v=20261120-093152">
-  <link rel="manifest" href="manifest.webmanifest?v=20261120-093152">
+  <link rel="icon" type="image/svg+xml" href="assets/logo.svg?v=20261126-144653">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png?v=20261126-144653">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png?v=20261126-144653">
+  <link rel="manifest" href="manifest.webmanifest?v=20261126-144653">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="The Library">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <link rel="stylesheet" href="css/style.css?v=20261120-093152">
+  <link rel="stylesheet" href="css/style.css?v=20261126-144653">
 </head>
 <body>
   <header class="topbar">
     <div class="brand">
-      <img class="brand-icon" src="assets/logo.svg?v=20261120-093152" alt="" width="34" height="34">
+      <span class="logo-wrap"><span class="xmas-hat small" aria-hidden="true"></span><img class="brand-icon" src="assets/logo.svg?v=20261126-144653" alt="" width="34" height="34"></span>
       <span class="brand-name">The Library</span>
     </div>
     <nav class="tabs" id="tabs">
@@ -49,8 +49,12 @@
   <main>
     <!-- PROFILI -->
     <section id="view-profili" class="view profiles-screen" hidden>
-      <img class="profiles-logo" src="assets/logo.svg?v=20261120-093152" alt="" width="64" height="64">
-      <h1 id="profiles-title">Chi gioca?</h1>
+      <span class="logo-wrap"><span class="xmas-hat" aria-hidden="true"></span><img class="profiles-logo" src="assets/logo.svg?v=20261126-144653" alt="" width="64" height="64"></span>
+      <div class="splash-wrap">
+        <h1 class="splash-title">The Library</h1>
+        <button type="button" class="splash" id="splash" title="Tocca per un'altra frase" aria-live="polite"></button>
+      </div>
+      <h2 id="profiles-title" class="profiles-sub">Chi gioca?</h2>
       <p id="profiles-hint" class="muted"></p>
       <div id="profile-grid" class="profile-grid"></div>
       <button type="button" class="btn ghost" id="manage-profiles" hidden>Gestisci profili</button>
@@ -352,7 +356,7 @@
               <input name="owner" required placeholder="es. lucapriano8-boop">
             </label>
             <label>Repository
-              <input name="repo" required placeholder="es. TheGameLibrary">
+              <input name="repo" required placeholder="es. TheLibrary">
             </label>
             <label>Branch dei dati
               <input name="branch" required placeholder="main">
@@ -898,11 +902,13 @@
   <!-- MODALE: manga, libri, film, serie (contenuto creato da js/media.js) -->
   <dialog id="media-dialog" class="dialog"></dialog>
 
+  <div class="snow" id="snow" aria-hidden="true" hidden></div>
+
   <div id="toast" class="toast" hidden></div>
 
-  <script src="js/storage.js?v=20261120-093152"></script>
-  <script src="js/lookup.js?v=20261120-093152"></script>
-  <script src="js/media.js?v=20261120-093152"></script>
-  <script src="js/app.js?v=20261120-093152"></script>
+  <script src="js/storage.js?v=20261126-144653"></script>
+  <script src="js/lookup.js?v=20261126-144653"></script>
+  <script src="js/media.js?v=20261126-144653"></script>
+  <script src="js/app.js?v=20261126-144653"></script>
 </body>
 </html>

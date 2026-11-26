@@ -1,4 +1,4 @@
-# 📚 The Library (TheGameLibrary)
+# 📚 The Library
 
 La mia libreria digitale personale: videogiochi, manga, libri, film e serie TV.
 
@@ -9,6 +9,8 @@ La mia libreria digitale personale: videogiochi, manga, libri, film e serie TV.
 - **Serie TV**: stagioni ed episodi per stagione; scheda **In corso** con l'episodio a cui sei arrivato (**+1 ep.** o scelta di stagione ed episodio). Le serie in corso non hanno voto: lo dai quando le finisci o le abbandoni, e allora entrano in **classifica**. C'è anche la lista **Da vedere** (▶ Inizia / ✔ Vista).
 - **Preferiti e Home in ogni sezione**: la stella ☆ su ogni titolo, il filtro ★ Preferiti nelle liste e il riquadro dei preferiti nella Home di ogni sezione. Anche per manga, libri, film e serie la ricerca automatica compila copertina e dati (Wikidata/Wikipedia; per le serie anche stagioni ed episodi quando ci sono).
 
+- **Frase del giorno**: nella schermata iniziale, accanto a "The Library", compare una frase gialla che cambia a ogni apertura (tocca la frase per cambiarla): frasi fisse, frasi con i numeri dei profili, frasi a tema per le feste e una frase segreta rara.
+- **Natale**: dal 1° al 31 dicembre il sito si decora da solo (neve, lucine sotto la barra in alto, cappello di Babbo Natale sul logo, frasi natalizie). Per provarlo in un altro mese aggiungi `?natale` all'indirizzo.
 - **Profili in stile Netflix**: all'apertura scegli chi gioca. Ogni profilo ha la sua libreria e la sua lista di uscite. I profili si creano, rinominano ed eliminano dal sito ("Gestisci profili"), con 16 avatar pixel art tra cui scegliere.
 - **Backlog**: nella pagina "In uscita", sotto le uscite, la lista dei giochi che vuoi giocare, con il tempo per finirli (storia, storia + extra, completista) e il totale delle ore. Il pulsante **⏱ HLTB** apre la pagina di HowLongToBeat del gioco da cui copiare i tempi; **✔ Giocato** sposta il gioco nella libreria.
 - **Preferiti**: tocca la stella ☆ accanto a un gioco (in classifica o nella sua scheda) per segnarlo come preferito; il filtro **★ Preferiti** in classifica mostra solo quelli.
@@ -56,14 +58,14 @@ Gli avatar sono in `assets/avatars/` e si rigenerano con `python3 tools/make_ava
 ### 1. Pubblica il sito con GitHub Pages
 1. Su GitHub apri la repository, poi **Settings → Pages**.
 2. In *Build and deployment* scegli **Source: Deploy from a branch**, branch **`main`**, cartella **`/ (root)`**, poi **Save**.
-3. Dopo un minuto il sito sarà online su `https://<tuo-utente>.github.io/TheGameLibrary/`.
+3. Dopo un minuto il sito sarà online su `https://<tuo-utente>.github.io/TheLibrary/`.
 
 ### 2. Crea un token per poter salvare
 Il token permette al sito di scrivere i file dei dati, **solo** in questa repository.
 
 1. Vai su GitHub → foto profilo → **Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token**.
-2. Nome: `TheGameLibrary`. Scadenza: quella che preferisci (anche *No expiration*).
-3. **Repository access → Only select repositories →** `TheGameLibrary`.
+2. Nome: `TheLibrary`. Scadenza: quella che preferisci (anche *No expiration*).
+3. **Repository access → Only select repositories →** `TheLibrary`.
 4. **Permissions → Repository permissions → Contents → Read and write**.
 5. Genera il token e copialo (inizia con `github_pat_…`).
 

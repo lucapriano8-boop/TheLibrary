@@ -1,4 +1,4 @@
-# TheGameLibrary (The Library)
+# The Library (repository TheLibrary, prima TheGameLibrary)
 
 Sito statico (HTML/CSS/JS, nessuna build) pubblicato con GitHub Pages dal branch `main`.
 I dati stanno in `data/` e vengono scritti dal sito tramite la GitHub Contents API: non modificarli a mano

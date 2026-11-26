@@ -35,6 +35,8 @@ const Storage = (() => {
     const defaults = inferDefaults();
     let saved = {};
     try { saved = JSON.parse(safeGet(CONFIG_KEY) || '{}'); } catch { saved = {}; }
+    // la repository è stata rinominata da TheGameLibrary a TheLibrary: aggiorna le impostazioni salvate nel browser
+    if (saved.repo === 'TheGameLibrary') { saved.repo = 'TheLibrary'; safeSet(CONFIG_KEY, JSON.stringify(saved)); }
     return { ...defaults, ...Object.fromEntries(Object.entries(saved).filter(([, v]) => v !== '' && v != null)) };
   }
 
