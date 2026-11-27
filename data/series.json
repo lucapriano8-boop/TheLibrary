@@ -561,5 +561,23 @@
       "e": 10
     },
     "addedAt": "2026-11-27T15:08:20.398Z"
+  },
+  {
+    "id": "0ef98f81-8518-4601-9509-3d1a6491fc59",
+    "title": "The End of the F***ing World",
+    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/The_End_of_the_F%2A%2A%2Aing_World_logo.png/500px-The_End_of_the_F%2A%2A%2Aing_World_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2017,
+    "seasons": [
+      8,
+      8
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 79,
+    "at": {
+      "s": 2,
+      "e": 8
+    },
+    "addedAt": "2026-11-27T15:08:40.021Z"
   }
 ]
