@@ -480,5 +480,22 @@
       "e": 22
     },
     "addedAt": "2026-11-27T15:04:02.023Z"
+  },
+  {
+    "id": "6e2144ff-303a-4aec-b237-78de31c361ca",
+    "title": "Hawkeye",
+    "cover": "https://media.glamour.mx/photos/61a808e6686434451bda4f15/master/w_1600%2Cc_limit/Hawkeye%2520serie.jpg",
+    "year": 2021,
+    "seasons": [
+      6
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 74,
+    "at": {
+      "s": 1,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T15:05:15.765Z"
   }
 ]
