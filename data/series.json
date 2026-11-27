@@ -499,5 +499,24 @@
       "e": 6
     },
     "addedAt": "2026-11-27T15:05:15.765Z"
+  },
+  {
+    "id": "b3bc0652-65d2-4e11-96bf-412d8fa15432",
+    "title": "La casa di carta",
+    "cover": "https://cs.ilgiardinodeilibri.it/cop/c/w640/casa-di-carta-accademia-libro.jpg?_=1640949346",
+    "year": 2017,
+    "seasons": [
+      15,
+      26,
+      10
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 72,
+    "at": {
+      "s": 3,
+      "e": 10
+    },
+    "addedAt": "2026-11-27T15:07:31.264Z"
   }
 ]
