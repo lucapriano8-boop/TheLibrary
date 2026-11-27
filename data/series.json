@@ -867,7 +867,7 @@
   {
     "id": "e05986d5-8193-4a30-8d93-2e101ccf186a",
     "title": "Black Lightning",
-    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Black_Lighting_%28Berlanti_Productions%29_logo.svg/500px-Black_Lighting_%28Berlanti_Productions%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "cover": "https://images.everyeye.it/img-cover/black-lightning-stagione-1-v18-11059.jpg",
     "year": 2018,
     "seasons": [
       15,
@@ -882,7 +882,8 @@
       "s": 1,
       "e": 15
     },
-    "addedAt": "2026-11-27T15:15:05.162Z"
+    "addedAt": "2026-11-27T15:15:05.162Z",
+    "updatedAt": "2026-11-27T15:42:07.029Z"
   },
   {
     "id": "df2472af-3d19-4724-baf4-be71ad30e927",
