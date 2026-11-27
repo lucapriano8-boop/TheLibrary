@@ -397,5 +397,23 @@
       "e": 8
     },
     "addedAt": "2026-11-27T14:55:30.099Z"
+  },
+  {
+    "id": "38e8f8b0-d4d2-45c2-9c4f-c2834e77f38a",
+    "title": "Loki",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/4e/Loki_%28TV_series%29_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2021,
+    "seasons": [
+      6,
+      6
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 76,
+    "at": {
+      "s": 2,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T14:55:44.951Z"
   }
 ]
