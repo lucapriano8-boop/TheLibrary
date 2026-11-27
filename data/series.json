@@ -899,5 +899,22 @@
       "e": 6
     },
     "addedAt": "2026-11-27T15:15:19.866Z"
+  },
+  {
+    "id": "80754610-fde7-43a3-ab76-6a12bbf2cd3a",
+    "title": "She-Hulk: Attorney at Law",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/32/She-Hulk_Attorney_at_Law_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2022,
+    "seasons": [
+      9
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 53,
+    "at": {
+      "s": 1,
+      "e": 9
+    },
+    "addedAt": "2026-11-27T15:15:36.405Z"
   }
 ]
