@@ -270,5 +270,23 @@
       "e": 1
     },
     "addedAt": "2026-11-27T14:53:15.428Z"
+  },
+  {
+    "id": "ebd4e884-32f0-4e3b-b50f-f61336cadc3a",
+    "title": "Boyfriend on Demand",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0f/Boyfriend_on_Demand_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2026,
+    "seasons": [
+      5,
+      5
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 2,
+      "e": 1
+    },
+    "addedAt": "2026-11-27T14:53:36.312Z"
   }
 ]
