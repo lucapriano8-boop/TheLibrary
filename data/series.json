@@ -292,7 +292,7 @@
   {
     "id": "2272d1bf-f2ec-417e-b1ab-bc2c3d8b5b22",
     "title": "Fallout",
-    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Fallout_television_series_logo.svg/500px-Fallout_television_series_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.6-qGQbE3U32R4JfGM7vWhgHaK-?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "year": 2024,
     "seasons": [
       8,
@@ -305,7 +305,8 @@
       "s": 1,
       "e": 7
     },
-    "addedAt": "2026-11-27T14:53:52.134Z"
+    "addedAt": "2026-11-27T14:53:52.134Z",
+    "updatedAt": "2026-11-27T15:43:49.205Z"
   },
   {
     "id": "5ecf11a8-b566-4d3e-b61d-0325e8f3701e",
