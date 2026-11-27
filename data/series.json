@@ -116,7 +116,7 @@
   {
     "id": "b85f9b6b-86c0-4a39-9d12-04bfc69196e5",
     "title": "The Mandalorian",
-    "cover": "",
+    "cover": "https://thumbor.evrimagaci.org/Xu9srlGv4PpxO4m5s5Mk8dbYfH8=/filters:quality(85)/old/mi_media/99a7b66040486ec39bf79cd8c1f91f64.jpeg",
     "year": 2019,
     "seasons": [
       8,
@@ -130,6 +130,7 @@
       "s": 3,
       "e": 8
     },
-    "addedAt": "2026-11-18T12:13:20.072Z"
+    "addedAt": "2026-11-18T12:13:20.072Z",
+    "updatedAt": "2026-11-27T14:46:49.612Z"
   }
 ]
