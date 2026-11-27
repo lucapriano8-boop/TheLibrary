@@ -194,5 +194,26 @@
       "e": 1
     },
     "addedAt": "2026-11-27T14:50:47.064Z"
+  },
+  {
+    "id": "2a066af7-60ab-4d7a-887a-4acc031b3a4d",
+    "title": "The Boys",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.jdIs0qhc0oOh7gRxEX4kEQHaJQ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "year": 2019,
+    "seasons": [
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 5,
+      "e": 1
+    },
+    "addedAt": "2026-11-27T14:52:04.732Z"
   }
 ]
