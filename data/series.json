@@ -958,5 +958,27 @@
     },
     "addedAt": "2026-11-27T15:15:51.589Z",
     "updatedAt": "2026-11-27T15:49:14.780Z"
+  },
+  {
+    "id": "17e1cbf6-f1bd-4991-92ef-4b66a3149e6f",
+    "title": "Peaky Blinders",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e8/Peaky_Blinders_titlecard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2013,
+    "seasons": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 1,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T15:55:38.414Z"
   }
 ]
