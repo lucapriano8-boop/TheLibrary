@@ -169,5 +169,30 @@
       "e": 6
     },
     "addedAt": "2026-11-27T14:49:35.272Z"
+  },
+  {
+    "id": "b666b5b7-fbf1-4aae-bf0c-24ae92bf2e99",
+    "title": "The Flash",
+    "cover": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/03/the-flash-season-9-poster.jpg",
+    "year": 2015,
+    "seasons": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 7,
+      "e": 1
+    },
+    "addedAt": "2026-11-27T14:50:47.064Z"
   }
 ]
