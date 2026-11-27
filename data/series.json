@@ -456,5 +456,29 @@
       "e": 8
     },
     "addedAt": "2026-11-27T15:03:40.746Z"
+  },
+  {
+    "id": "ac0a9db8-17c2-4873-afd7-2e058cdf0609",
+    "title": "Arrow",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1b/Arrow_Intertitle.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2012,
+    "seasons": [
+      23,
+      23,
+      23,
+      23,
+      23,
+      23,
+      22,
+      10
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 7,
+      "e": 22
+    },
+    "addedAt": "2026-11-27T15:04:02.023Z"
   }
 ]
