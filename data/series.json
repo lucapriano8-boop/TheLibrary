@@ -540,5 +540,26 @@
       "e": 11
     },
     "addedAt": "2026-11-27T15:07:46.197Z"
+  },
+  {
+    "id": "a358baaf-f82b-47a8-a248-520606ad33b4",
+    "title": "You",
+    "cover": "https://www.sentireascoltare.com/wp-content/uploads/2021/10/you-season-3-poster-netflix-02.jpg",
+    "year": 2018,
+    "seasons": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 71,
+    "at": {
+      "s": 5,
+      "e": 10
+    },
+    "addedAt": "2026-11-27T15:08:20.398Z"
   }
 ]
