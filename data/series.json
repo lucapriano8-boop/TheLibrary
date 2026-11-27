@@ -730,5 +730,22 @@
       "e": 6
     },
     "addedAt": "2026-11-27T15:12:42.092Z"
+  },
+  {
+    "id": "60c0fb60-57cb-48fc-9cb5-3d376d46ca68",
+    "title": "WandaVision",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/2/20/WandaVision_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2021,
+    "seasons": [
+      9
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 69,
+    "at": {
+      "s": 1,
+      "e": 9
+    },
+    "addedAt": "2026-11-27T15:13:04.513Z"
   }
 ]
