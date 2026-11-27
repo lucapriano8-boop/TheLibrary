@@ -771,5 +771,23 @@
       "e": 8
     },
     "addedAt": "2026-11-27T15:13:33.411Z"
+  },
+  {
+    "id": "393dd6b1-1eca-4349-b979-1c67723570f1",
+    "title": "Maxton Hall - Il mondo tra di noi",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c6/Maxton_Hall_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2024,
+    "seasons": [
+      6,
+      6
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 69,
+    "at": {
+      "s": 2,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T15:13:48.318Z"
   }
 ]
