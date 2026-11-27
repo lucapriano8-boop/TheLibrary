@@ -600,7 +600,7 @@
   {
     "id": "3f19d718-377e-47e5-bc37-70dc941fb7d8",
     "title": "Supergirl",
-    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Supergirl_%28Arrowverse_television_series%29_logo.svg/500px-Supergirl_%28Arrowverse_television_series%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "cover": "https://images.everyeye.it/img-cover/supergirl-stagione-1-v2-29048.jpg",
     "year": 2015,
     "seasons": [
       20,
@@ -617,7 +617,8 @@
       "s": 3,
       "e": 23
     },
-    "addedAt": "2026-11-27T15:09:07.919Z"
+    "addedAt": "2026-11-27T15:09:07.919Z",
+    "updatedAt": "2026-11-27T15:42:53.528Z"
   },
   {
     "id": "da63a77f-e2ca-4825-901a-c170e108f7a8",
