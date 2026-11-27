@@ -132,5 +132,19 @@
     },
     "addedAt": "2026-11-18T12:13:20.072Z",
     "updatedAt": "2026-11-27T14:46:49.612Z"
+  },
+  {
+    "id": "1deb726b-7f4e-4f8a-ae26-183056468497",
+    "title": "Ashoka",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.GI14-UHH66PpsrJ3D2h7igHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "year": 2023,
+    "seasons": [
+      8
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": null,
+    "addedAt": "2026-11-27T14:48:56.477Z"
   }
 ]
