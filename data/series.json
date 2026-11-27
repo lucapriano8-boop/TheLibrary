@@ -713,5 +713,22 @@
       "e": 6
     },
     "addedAt": "2026-11-27T15:12:19.323Z"
+  },
+  {
+    "id": "5f120333-b2c2-42b9-a478-c5604aebb90a",
+    "title": "The Falcon and the Winter Soldier",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/9a/The_Falcon_and_the_Winter_Soldier_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2021,
+    "seasons": [
+      6
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 73,
+    "at": {
+      "s": 1,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T15:12:42.092Z"
   }
 ]
