@@ -140,5 +140,21 @@
     "where": "",
     "notes": "",
     "addedAt": "2026-11-27T15:55:07.370Z"
+  },
+  {
+    "id": "d4606ee0-dd2b-4009-a6a8-6a0f0a2bb411",
+    "title": "Stranger Things",
+    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Stranger_Things_logo.png/500px-Stranger_Things_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2016,
+    "seasons": [
+      8,
+      9,
+      8,
+      9,
+      8
+    ],
+    "where": "",
+    "notes": "",
+    "addedAt": "2026-11-27T15:56:14.511Z"
   }
 ]
