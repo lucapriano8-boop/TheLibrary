@@ -215,5 +215,22 @@
       "e": 1
     },
     "addedAt": "2026-11-27T14:52:04.732Z"
+  },
+  {
+    "id": "0030603d-5170-44d8-89e7-a9859e856b71",
+    "title": "Mr. Plankton",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c1/Mr._Plankton_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2024,
+    "seasons": [
+      10
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 78,
+    "at": {
+      "s": 1,
+      "e": 10
+    },
+    "addedAt": "2026-11-27T14:52:26.823Z"
   }
 ]
