@@ -618,5 +618,28 @@
       "e": 23
     },
     "addedAt": "2026-11-27T15:09:07.919Z"
+  },
+  {
+    "id": "da63a77f-e2ca-4825-901a-c170e108f7a8",
+    "title": "Legends of Tomorrow",
+    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/DC%27s_Legends_of_Tomorrow_%28production_logo%29.svg/500px-DC%27s_Legends_of_Tomorrow_%28production_logo%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2016,
+    "seasons": [
+      16,
+      17,
+      18,
+      16,
+      15,
+      15,
+      13
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 80,
+    "at": {
+      "s": 7,
+      "e": 13
+    },
+    "addedAt": "2026-11-27T15:09:26.091Z"
   }
 ]
