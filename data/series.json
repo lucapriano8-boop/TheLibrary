@@ -141,10 +141,14 @@
     "seasons": [
       8
     ],
-    "status": "In corso",
+    "status": "Completata",
     "review": "",
-    "score": null,
-    "at": null,
-    "addedAt": "2026-11-27T14:48:56.477Z"
+    "score": 80,
+    "at": {
+      "s": 1,
+      "e": 8
+    },
+    "addedAt": "2026-11-27T14:48:56.477Z",
+    "updatedAt": "2026-11-27T14:49:03.465Z"
   }
 ]
