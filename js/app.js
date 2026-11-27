@@ -2932,7 +2932,26 @@
     const on = params.has('natale') || (new Date().getMonth() === 11 && !params.has('nonatale'));
     document.body.classList.toggle('xmas', on);
     if (!on) return;
-    $('meta[name="theme-color"]')?.setAttribute('content', '#1a1f2c');
+    // conto alla rovescia nella Home dei giochi
+    const today = new Date(); const xmasDay = new Date(today.getFullYear(), 11, 25);
+    const days = Math.ceil((xmasDay - new Date(today.getFullYear(), today.getMonth(), today.getDate())) / 86400000);
+    $('#xmas-year').textContent = `Natale ${today.getFullYear()}`;
+    $('#xmas-days').textContent = days > 1 ? `Mancano ${days} giorni` : days === 1 ? 'Domani è Natale!' : days === 0 ? 'Buon Natale!' : 'Buone feste!';
+    // lucine appese sotto la barra in alto
+    const cols = ['#ff4d5e', '#ffd34d', '#3fd38a', '#5b8cff', '#ff7ac8', '#ff9a3d'];
+    const step = 42; const n = 60; let wire = 'M0 5'; let bulbs = '';
+    for (let i = 0; i < n; i++) {
+      const x = i * step + step / 2; const c = cols[i % cols.length]; const d = ((i * 0.37) % 2.4).toFixed(2);
+      wire += ` Q${x} 14 ${x + step / 2} 5`;
+      bulbs += `<g class="sw" style="animation-delay:-${(i % 3) * 0.6}s"><circle class="halo" cx="${x}" cy="21" r="10" fill="${c}" style="animation-delay:-${d}s"/>`
+        + `<rect x="${x - 2.5}" y="8.5" width="5" height="4.5" rx="1.2" fill="#2d5a3a"/>`
+        + `<path class="bulb" d="M${x} 12.5c4.2 0 5.6 4.2 5.6 7.2 0 3.6-2.6 6.6-5.6 6.6s-5.6-3-5.6-6.6c0-3 1.4-7.2 5.6-7.2z" fill="${c}" style="animation-delay:-${d}s"/></g>`;
+    }
+    const lights = document.createElement('div');
+    lights.className = 'xmas-lights';
+    lights.setAttribute('aria-hidden', 'true');
+    lights.innerHTML = `<svg width="${n * step}" viewBox="0 0 ${n * step} 30"><path d="${wire}" fill="none" stroke="#2d5a3a" stroke-width="1.8" stroke-linecap="round"/>${bulbs}</svg>`;
+    $('.topbar').appendChild(lights);
     if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
     const snow = $('#snow');
     const flakes = innerWidth < 640 ? 22 : 40;

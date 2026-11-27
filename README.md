@@ -10,7 +10,8 @@ La mia libreria digitale personale: videogiochi, manga, libri, film e serie TV.
 - **Preferiti e Home in ogni sezione**: la stella ☆ su ogni titolo, il filtro ★ Preferiti nelle liste e il riquadro dei preferiti nella Home di ogni sezione. Anche per manga, libri, film e serie la ricerca automatica compila copertina e dati (Wikidata/Wikipedia; per le serie anche stagioni ed episodi quando ci sono).
 
 - **Frase del giorno**: nella schermata iniziale, accanto a "The Library", compare una frase gialla che cambia a ogni apertura (tocca la frase per cambiarla): frasi fisse, frasi con i numeri dei profili, frasi a tema per le feste e una frase segreta rara.
-- **Natale**: dal 1° al 31 dicembre il sito si decora da solo (neve, lucine sotto la barra in alto, cappello di Babbo Natale sul logo, frasi natalizie). Per provarlo in un altro mese aggiungi `?natale` all'indirizzo.
+- **Grafica**: stile "Bento", chiaro e colorato, con riquadri a colori, voti colorati e un logo a blocchi; ogni sezione ha la sua icona e il suo colore.
+- **Natale**: dal 1° al 31 dicembre il sito si decora da solo (neve, lucine colorate sotto la barra in alto, cappello di Babbo Natale sul logo, conto alla rovescia nella Home dei giochi, frasi natalizie); a gennaio torna normale. Per provarlo in un altro mese aggiungi `?natale` all'indirizzo.
 - **Profili in stile Netflix**: all'apertura scegli chi gioca. Ogni profilo ha la sua libreria e la sua lista di uscite. I profili si creano, rinominano ed eliminano dal sito ("Gestisci profili"), con 16 avatar pixel art tra cui scegliere.
 - **Backlog**: nella pagina "In uscita", sotto le uscite, la lista dei giochi che vuoi giocare, con il tempo per finirli (storia, storia + extra, completista) e il totale delle ore. Il pulsante **⏱ HLTB** apre la pagina di HowLongToBeat del gioco da cui copiare i tempi; **✔ Giocato** sposta il gioco nella libreria.
 - **Preferiti**: tocca la stella ☆ accanto a un gioco (in classifica o nella sua scheda) per segnarlo come preferito; il filtro **★ Preferiti** in classifica mostra solo quelli.
@@ -51,7 +52,7 @@ Eliminare un profilo lo nasconde dal sito, ma i suoi file restano nella reposito
 
 Il token GitHub permette di modificare tutti i profili: dallo a persone di fiducia.
 
-Gli avatar sono in `assets/avatars/` e si rigenerano con `python3 tools/make_avatars.py`; il logo e i loghi delle sezioni con `python3 tools/make_logos.py`.
+Gli avatar sono in `assets/avatars/` e si rigenerano con `python3 tools/make_avatars.py`; il logo e le icone delle sezioni con `python3 tools/make_logos.py`.
 
 ## Configurazione (una volta sola)
 
