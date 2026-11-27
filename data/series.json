@@ -676,5 +676,22 @@
       "e": 8
     },
     "addedAt": "2026-11-27T15:10:53.418Z"
+  },
+  {
+    "id": "273e8e5d-80fa-41d0-b6af-bb454c9726f7",
+    "title": "Crew Girl",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/2/23/Crew_girl_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2026,
+    "seasons": [
+      10
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 74,
+    "at": {
+      "s": 1,
+      "e": 10
+    },
+    "addedAt": "2026-11-27T15:11:08.564Z"
   }
 ]
