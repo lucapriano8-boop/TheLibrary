@@ -747,5 +747,29 @@
       "e": 9
     },
     "addedAt": "2026-11-27T15:13:04.513Z"
+  },
+  {
+    "id": "a9021cc7-6c12-4dec-b73e-9c6e797fbb51",
+    "title": "Élite",
+    "cover": "https://i.pinimg.com/736x/23/bb/ad/23bbadad243f718c6b68bf00afb2dae0.jpg",
+    "year": 2018,
+    "seasons": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 5,
+      "e": 8
+    },
+    "addedAt": "2026-11-27T15:13:33.411Z"
   }
 ]
