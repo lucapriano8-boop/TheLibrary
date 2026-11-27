@@ -439,5 +439,22 @@
       "e": 1
     },
     "addedAt": "2026-11-27T15:03:01.715Z"
+  },
+  {
+    "id": "094a95bb-a865-45c7-8458-60dbe6d92f02",
+    "title": "Off Campus",
+    "cover": "https://tse4.mm.bing.net/th/id/OIP.9VOWZXUMOJhgmwM4lj-AbQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "year": 2026,
+    "seasons": [
+      8
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 75,
+    "at": {
+      "s": 1,
+      "e": 8
+    },
+    "addedAt": "2026-11-27T15:03:40.746Z"
   }
 ]
