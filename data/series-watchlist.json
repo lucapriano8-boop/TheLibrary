@@ -90,5 +90,26 @@
     "notes": "",
     "addedAt": "2026-11-27T15:53:18.336Z",
     "updatedAt": "2026-11-27T15:53:35.843Z"
+  },
+  {
+    "id": "6d93acde-07af-487d-bba0-8189a120f694",
+    "title": "Scrubs - Medici ai primi ferri",
+    "cover": "https://thumb.wikimedia.org/wikipedia/it/thumb/7/7c/Scrubs_titoli_di_testa.png/500px-Scrubs_titoli_di_testa.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2001,
+    "seasons": [
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19,
+      19
+    ],
+    "where": "",
+    "notes": "",
+    "addedAt": "2026-11-27T15:53:53.650Z"
   }
 ]
