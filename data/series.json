@@ -150,5 +150,24 @@
     },
     "addedAt": "2026-11-27T14:48:56.477Z",
     "updatedAt": "2026-11-27T14:49:03.465Z"
+  },
+  {
+    "id": "3c7883fc-03bf-4187-a55b-0ef3b59108d8",
+    "title": "Squid Game",
+    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Squid_Game_2021_vector_logo_english.svg/500px-Squid_Game_2021_vector_logo_english.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2021,
+    "seasons": [
+      9,
+      7,
+      6
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 79,
+    "at": {
+      "s": 3,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T14:49:35.272Z"
   }
 ]
