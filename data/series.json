@@ -659,5 +659,22 @@
       "e": 6
     },
     "addedAt": "2026-11-27T15:10:39.597Z"
+  },
+  {
+    "id": "85cada39-bb91-4058-838c-8207cfd4a255",
+    "title": "My Lady Jane",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2a/My_lady_jane_title_card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2024,
+    "seasons": [
+      8
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 71,
+    "at": {
+      "s": 1,
+      "e": 8
+    },
+    "addedAt": "2026-11-27T15:10:53.418Z"
   }
 ]
