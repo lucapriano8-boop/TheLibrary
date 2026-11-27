@@ -26,6 +26,7 @@ Non serve per i commit dei soli dati.
   `"own"`/`"read"`, i volumi assenti sono mancanti), `books.json` (anche `saga`, `pub` e `readYear` anno di lettura), `books-wishlist.json`, `movies.json`, `movies-watchlist.json`,
   `movies-owned.json`, `series.json` (`seasons` = episodi per stagione, `status`, `score` null se "In corso", `at` = ultimo episodio visto),
   `series-watchlist.json`. Ovunque `favorite: true` segna i preferiti
-- `assets/sections/` loghi delle sezioni e `assets/logo.svg` / `assets/icon.svg` generati da `tools/make_logos.py`
-  (tranne `assets/sections/games.svg`); le icone PNG si ricavano da `assets/icon.svg`
+- Grafica "Bento" (chiara e colorata): il blocco TEMA "BENTO" in fondo a `css/style.css` sostituisce i colori del tema scuro precedente
+- `assets/sections/` icone delle sezioni e `assets/logo.svg` / `assets/icon.svg` (logo a blocchi) generati da `tools/make_logos.py`;
+  le icone PNG si ricavano da `assets/icon.svg`. `assets/xmas-hat.svg` è il cappello di Natale (dicembre)
 - `assets/avatars/` avatar generati da `tools/make_avatars.py`
