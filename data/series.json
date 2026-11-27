@@ -518,5 +518,27 @@
       "e": 10
     },
     "addedAt": "2026-11-27T15:07:31.264Z"
+  },
+  {
+    "id": "2e3be746-29be-4a3b-9409-d7f0edf87944",
+    "title": "Cobra Kai",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/d6/CobraKaiTitleScreen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2018,
+    "seasons": [
+      11,
+      11,
+      11,
+      11,
+      11,
+      11
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 5,
+      "e": 11
+    },
+    "addedAt": "2026-11-27T15:07:46.197Z"
   }
 ]
