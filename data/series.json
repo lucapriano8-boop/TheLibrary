@@ -944,7 +944,7 @@
   {
     "id": "4e6ebc7e-6525-449c-b6f9-ca6e02cc9b35",
     "title": "Secret Invasion",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/9/91/Secret_Invasion_%28miniseries%29_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "cover": "https://tse2.mm.bing.net/th/id/OIP.XSdTnoLVoXCvT-fwn0LRegHaK-?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "year": 2023,
     "seasons": [
       6
@@ -956,6 +956,7 @@
       "s": 1,
       "e": 6
     },
-    "addedAt": "2026-11-27T15:15:51.589Z"
+    "addedAt": "2026-11-27T15:15:51.589Z",
+    "updatedAt": "2026-11-27T15:49:14.780Z"
   }
 ]
