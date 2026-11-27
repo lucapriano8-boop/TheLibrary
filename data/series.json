@@ -806,5 +806,22 @@
       "e": 8
     },
     "addedAt": "2026-11-27T15:14:06.885Z"
+  },
+  {
+    "id": "b8089a3e-50cd-49ba-80ad-327a4b740728",
+    "title": "Star Wars: Skeleton Crew",
+    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Skeleton_Crew.svg/500px-Skeleton_Crew.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2024,
+    "seasons": [
+      8
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 67,
+    "at": {
+      "s": 1,
+      "e": 8
+    },
+    "addedAt": "2026-11-27T15:14:23.653Z"
   }
 ]
