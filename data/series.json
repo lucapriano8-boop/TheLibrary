@@ -349,7 +349,7 @@
   {
     "id": "943ce26d-ec08-47fa-83b9-f58c4da51099",
     "title": "Il Signore degli Anelli - Gli Anelli del Potere",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1d/LOTR_The_Rings_of_Power_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "cover": "https://tse3.mm.bing.net/th/id/OIP.nJzrM-0Rg1QCjj0p_EfViwHaJQ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "year": 2022,
     "seasons": [
       8,
@@ -363,7 +363,8 @@
       "s": 1,
       "e": 8
     },
-    "addedAt": "2026-11-27T14:54:48.428Z"
+    "addedAt": "2026-11-27T14:54:48.428Z",
+    "updatedAt": "2026-11-27T15:44:07.380Z"
   },
   {
     "id": "c7cc76ce-d49a-4968-ae26-da299430bf2c",
