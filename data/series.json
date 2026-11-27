@@ -469,12 +469,13 @@
     ],
     "status": "Completata",
     "review": "",
-    "score": 75,
+    "score": 78,
     "at": {
       "s": 1,
       "e": 8
     },
-    "addedAt": "2026-11-27T15:03:40.746Z"
+    "addedAt": "2026-11-27T15:03:40.746Z",
+    "updatedAt": "2026-11-27T16:04:36.121Z"
   },
   {
     "id": "ac0a9db8-17c2-4873-afd7-2e058cdf0609",
