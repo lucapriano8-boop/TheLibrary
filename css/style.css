@@ -1259,3 +1259,8 @@ input:focus, select:focus, textarea:focus { box-shadow: 0 0 0 3px rgba(91, 110, 
   .xmas-lights .bulb { opacity: 1; }
   .snow { display: none; }
 }
+
+/* i riquadri della Home non devono mai essere più larghi dello schermo (es. il grafico con molti anni) */
+.grid-2 > *, .stats > *, main > .view > * { min-width: 0; }
+.card-head { flex-wrap: wrap; }
+@media (max-width: 860px) { .grid-2 { grid-template-columns: minmax(0, 1fr); } }
