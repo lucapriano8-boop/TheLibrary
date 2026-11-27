@@ -362,5 +362,22 @@
       "e": 8
     },
     "addedAt": "2026-11-27T14:54:48.428Z"
+  },
+  {
+    "id": "c7cc76ce-d49a-4968-ae26-da299430bf2c",
+    "title": "The Book of Boba Fett",
+    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Book_of_Boba_Fett.svg/500px-The_Book_of_Boba_Fett.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2021,
+    "seasons": [
+      7
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 76,
+    "at": {
+      "s": 1,
+      "e": 7
+    },
+    "addedAt": "2026-11-27T14:55:14.348Z"
   }
 ]
