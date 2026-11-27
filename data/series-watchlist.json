@@ -156,5 +156,21 @@
     "where": "",
     "notes": "",
     "addedAt": "2026-11-27T15:56:14.511Z"
+  },
+  {
+    "id": "a48c13aa-cd6c-487c-9af5-1d73fba203f8",
+    "title": "Prison Break",
+    "cover": "https://thumb.wikimedia.org/wikipedia/it/thumb/a/a0/PrisonBreak.jpeg/500px-PrisonBreak.jpeg?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2005,
+    "seasons": [
+      22,
+      22,
+      13,
+      24,
+      9
+    ],
+    "where": "",
+    "notes": "",
+    "addedAt": "2026-11-27T15:56:59.044Z"
   }
 ]
