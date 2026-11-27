@@ -787,14 +787,15 @@
       8,
       8
     ],
-    "status": "In corso",
+    "status": "Abbandonata",
     "review": "",
-    "score": null,
+    "score": 64,
     "at": {
       "s": 5,
       "e": 8
     },
-    "addedAt": "2026-11-27T15:13:33.411Z"
+    "addedAt": "2026-11-27T15:13:33.411Z",
+    "updatedAt": "2026-11-27T16:03:00.578Z"
   },
   {
     "id": "393dd6b1-1eca-4349-b979-1c67723570f1",
