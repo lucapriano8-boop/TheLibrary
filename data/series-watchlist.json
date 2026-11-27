@@ -71,5 +71,23 @@
     "where": "",
     "notes": "",
     "addedAt": "2026-11-27T15:52:16.274Z"
+  },
+  {
+    "id": "172a401f-5414-4402-a267-33299888ed0b",
+    "title": "Young Sheldon",
+    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Young_Sheldon_logo.svg/500px-Young_Sheldon_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2017,
+    "seasons": [
+      22,
+      22,
+      21,
+      18,
+      22,
+      22,
+      14
+    ],
+    "where": "",
+    "notes": "",
+    "addedAt": "2026-11-27T15:53:18.336Z"
   }
 ]
