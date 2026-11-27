@@ -732,7 +732,7 @@
   {
     "id": "5f120333-b2c2-42b9-a478-c5604aebb90a",
     "title": "The Falcon and the Winter Soldier",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/9/9a/The_Falcon_and_the_Winter_Soldier_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "cover": "https://th.bing.com/th/id/R.c4fa7cecb2bf7a6369af54a363e9c027?rik=eNO9%2b0qsMGJdxg&pid=ImgRaw&r=0",
     "year": 2021,
     "seasons": [
       6
@@ -744,7 +744,8 @@
       "s": 1,
       "e": 6
     },
-    "addedAt": "2026-11-27T15:12:42.092Z"
+    "addedAt": "2026-11-27T15:12:42.092Z",
+    "updatedAt": "2026-11-27T15:47:25.142Z"
   },
   {
     "id": "60c0fb60-57cb-48fc-9cb5-3d376d46ca68",
