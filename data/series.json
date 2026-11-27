@@ -329,7 +329,7 @@
   {
     "id": "76833a50-0ce9-4e2c-b6e1-96c380e0dca4",
     "title": "The Last of Us",
-    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Last_of_Us_TV_logo.svg/500px-The_Last_of_Us_TV_logo.svg.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "cover": "https://tse1.mm.bing.net/th/id/OIP.6QPWUhxJE1cyqAYtmoKqfgHaKk?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "year": 2023,
     "seasons": [
       8,
@@ -342,7 +342,8 @@
       "s": 1,
       "e": 8
     },
-    "addedAt": "2026-11-27T14:54:29.538Z"
+    "addedAt": "2026-11-27T14:54:29.538Z",
+    "updatedAt": "2026-11-27T15:43:17.194Z"
   },
   {
     "id": "943ce26d-ec08-47fa-83b9-f58c4da51099",
