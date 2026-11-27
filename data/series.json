@@ -693,5 +693,25 @@
       "e": 10
     },
     "addedAt": "2026-11-27T15:11:08.564Z"
+  },
+  {
+    "id": "8432abf2-5db9-4a69-a1b1-f45efa5bf18b",
+    "title": "Come vendere droga online (in fretta)",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/93/Title_screen_for_How_to_Sell_Drugs_Online_%28Fast%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2019,
+    "seasons": [
+      6,
+      6,
+      6,
+      6
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 3,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T15:12:19.323Z"
   }
 ]
