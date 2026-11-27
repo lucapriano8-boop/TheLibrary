@@ -882,5 +882,22 @@
       "e": 15
     },
     "addedAt": "2026-11-27T15:15:05.162Z"
+  },
+  {
+    "id": "df2472af-3d19-4724-baf4-be71ad30e927",
+    "title": "Moon Knight",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a8/Moon_Knight_%28miniseries%29_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2022,
+    "seasons": [
+      6
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 64,
+    "at": {
+      "s": 1,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T15:15:19.866Z"
   }
 ]
