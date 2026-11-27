@@ -52,5 +52,24 @@
     "where": "",
     "notes": "",
     "addedAt": "2026-11-27T15:51:33.840Z"
+  },
+  {
+    "id": "c7bb1084-77d8-4f87-b4bc-723089bfbfb6",
+    "title": "Il Trono di Spade",
+    "cover": "https://tse1.mm.bing.net/th/id/OIP.FHe78jPImsy6A7w5A8poZAHaLZ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "year": 2011,
+    "seasons": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      7,
+      6
+    ],
+    "where": "",
+    "notes": "",
+    "addedAt": "2026-11-27T15:52:16.274Z"
   }
 ]
