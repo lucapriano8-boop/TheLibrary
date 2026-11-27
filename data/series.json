@@ -419,7 +419,7 @@
   {
     "id": "b65a1013-4a64-48df-aeea-cbc673a54fb1",
     "title": "The Vampire Diaries",
-    "cover": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5b/The_Vampire_Diaries_Logo.svg/500px-The_Vampire_Diaries_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "cover": "https://tse1.mm.bing.net/th/id/OIP.tVjc_2-h4R8eZW4SCfPj8AHaLW?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "year": 2009,
     "seasons": [
       22,
@@ -438,7 +438,8 @@
       "s": 5,
       "e": 1
     },
-    "addedAt": "2026-11-27T15:03:01.715Z"
+    "addedAt": "2026-11-27T15:03:01.715Z",
+    "updatedAt": "2026-11-27T15:05:57.537Z"
   },
   {
     "id": "094a95bb-a865-45c7-8458-60dbe6d92f02",
