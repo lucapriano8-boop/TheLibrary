@@ -579,5 +579,22 @@
       "e": 8
     },
     "addedAt": "2026-11-27T15:08:40.021Z"
+  },
+  {
+    "id": "4e4a0659-a464-4520-9e7c-2c526c3b4f0b",
+    "title": "Bet",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/cc/Bet_Title_Card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2025,
+    "seasons": [
+      10
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 72,
+    "at": {
+      "s": 1,
+      "e": 10
+    },
+    "addedAt": "2026-11-27T15:08:52.859Z"
   }
 ]
