@@ -642,5 +642,22 @@
     },
     "addedAt": "2026-11-27T15:09:26.091Z",
     "updatedAt": "2026-11-27T15:09:56.683Z"
+  },
+  {
+    "id": "87f9c948-80fc-4d3e-bd56-d9063d35e7b9",
+    "title": "Obi-Wan Kenobi",
+    "cover": "https://pad.mymovies.it/serietv/immagini/7585/Obi.jpg",
+    "year": 2022,
+    "seasons": [
+      6
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 72,
+    "at": {
+      "s": 1,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T15:10:39.597Z"
   }
 ]
