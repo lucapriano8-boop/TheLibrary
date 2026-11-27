@@ -111,5 +111,17 @@
     "where": "",
     "notes": "",
     "addedAt": "2026-11-27T15:53:53.650Z"
+  },
+  {
+    "id": "cd97d5e8-67da-4281-a073-23c97b79efed",
+    "title": "Chernobyl",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chernobyl_2019_Miniseries.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2019,
+    "seasons": [
+      10
+    ],
+    "where": "",
+    "notes": "",
+    "addedAt": "2026-11-27T15:54:34.157Z"
   }
 ]
