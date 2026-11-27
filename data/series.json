@@ -68,7 +68,7 @@
   {
     "id": "73be37c7-d3a2-425e-b18f-bd08419ff775",
     "title": "Sex Education",
-    "cover": "",
+    "cover": "https://www.serialminds.com/wp-content/uploads/2019/01/Sex-Education-1-357x500.jpg",
     "year": 2019,
     "seasons": [
       8,
@@ -83,7 +83,8 @@
       "s": 4,
       "e": 8
     },
-    "addedAt": "2026-11-18T12:12:24.138Z"
+    "addedAt": "2026-11-18T12:12:24.138Z",
+    "updatedAt": "2026-11-27T14:46:23.258Z"
   },
   {
     "id": "47f5d565-3370-4edb-9528-0c47c5383870",
