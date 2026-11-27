@@ -415,5 +415,29 @@
       "e": 6
     },
     "addedAt": "2026-11-27T14:55:44.951Z"
+  },
+  {
+    "id": "b65a1013-4a64-48df-aeea-cbc673a54fb1",
+    "title": "The Vampire Diaries",
+    "cover": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5b/The_Vampire_Diaries_Logo.svg/500px-The_Vampire_Diaries_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "year": 2009,
+    "seasons": [
+      22,
+      22,
+      22,
+      23,
+      22,
+      22,
+      22,
+      16
+    ],
+    "status": "In corso",
+    "review": "",
+    "score": null,
+    "at": {
+      "s": 5,
+      "e": 1
+    },
+    "addedAt": "2026-11-27T15:03:01.715Z"
   }
 ]
