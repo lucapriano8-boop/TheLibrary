@@ -90,7 +90,7 @@
   {
     "id": "47f5d565-3370-4edb-9528-0c47c5383870",
     "title": "Modern Family",
-    "cover": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Modern_Family.png/500px-Modern_Family.png?utm_source=it.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "cover": "https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "year": 2009,
     "seasons": [
       23,
@@ -112,7 +112,8 @@
       "s": 5,
       "e": 9
     },
-    "addedAt": "2026-11-18T12:12:55.791Z"
+    "addedAt": "2026-11-18T12:12:55.791Z",
+    "updatedAt": "2026-11-27T15:45:27.261Z"
   },
   {
     "id": "b85f9b6b-86c0-4a39-9d12-04bfc69196e5",
