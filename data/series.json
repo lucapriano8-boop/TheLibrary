@@ -916,5 +916,22 @@
       "e": 9
     },
     "addedAt": "2026-11-27T15:15:36.405Z"
+  },
+  {
+    "id": "4e6ebc7e-6525-449c-b6f9-ca6e02cc9b35",
+    "title": "Secret Invasion",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/91/Secret_Invasion_%28miniseries%29_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "year": 2023,
+    "seasons": [
+      6
+    ],
+    "status": "Completata",
+    "review": "",
+    "score": 36,
+    "at": {
+      "s": 1,
+      "e": 6
+    },
+    "addedAt": "2026-11-27T15:15:51.589Z"
   }
 ]
